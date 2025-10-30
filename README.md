@@ -14,7 +14,6 @@
 3. **Environment setup**
   ```bash
     cp .env.example .env
-# Edit .env with your configuration
 
 4. **Create MySQL database**
   ```bash
