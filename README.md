@@ -12,15 +12,15 @@
    npm install
 
 3. **Environment setup**
-  ```bash
+   ```bash
     cp .env.example .env
 
 4. **Create MySQL database**
-  ```bash
+   ```bash
     mysql -u root -p -e "CREATE DATABASE streamsync;"
 
 5. **CStart backend**
-  ```bash
+   ```bash
     # Development
     npm run dev
 
